@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,iBACI,sBACJ,CAEA,2BACI,qBACJ","file":"main.30fff87b.chunk.css","sourcesContent":[".item-wrap a img {\n    height: 150px !important;\n}\n\n.portfolio-item .link-icon {\n    bottom: 20px !important;\n}"]}

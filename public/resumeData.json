@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name":"Brennan Spicer",
+    "occupation":"Full Stack Developer",
+    "description":"I was taught the MERN stack by some of the best at the University of Minnesota's coding boot camp, and I'm eager to put my new skills to the test in a professional environment",
+    "image":"profilepic.jpg",
+    "bio":"Hello there! My name is Brennan Spicer. I am a web developer hailing from the great state of Minnesota, raised in the even greater city of Eagan. I'm a 25 year old college graduate currently living with three longtime friends and our house mascot, Sawyer, the border collie. I'm a tenacious person who takes pride in the work that I do. I will work tirelessly to secure the confidence of those around me and submit work we can all be proud of. I'm always grateful and excited for new opportunities to learn and grow as a developer and a person, and I'm eager to see what awaits me in this beautiful life.",
+    "contactmessage":"Please don't hesitate to reach out if you find yourself interested in what I have to offer.",
+    "email": "brennancodes@gmail.com",
+    "phone": "651-295-1687",
+    "address":{
+      "street":"2100 Garnet Ln",
+      "city":"Eagan",
+      "state":"Minnesota",
+      "zip": "55122"
+    },
+    "website": "https://www.brennancodes.github.io/Homework08",
+    "resumedownload":"https://drive.google.com/file/d/1CB7488N8wZJTwszToJ9maJcyE2v-hMM-/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/brennan.spicer",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/brennancodes",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/brennancodes/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/11839187/brennancodes",
+        "className":"fa fa-stack-overflow"
+      },
+      
+      {
+        "name":"gmail",
+        "url":"https://mail.google.com/mail/u/0/?view=cm&fs=1&to=brennancodes@gmail.com&su=SUBJECT&body=BODY&tf=1",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Self-motivated web developer with considerable experience working with rigorous schedule on multiple projects. Passionate and diligent with penchant for meeting deadlines. Interested in front-end, back-end, or full stack web developer role with company promoting best practices and offering diverse projects.",
+    "education":[
+      {
+        "school":"University of Minnesota Coding Boot Camp",
+        "degree":"Full Stack Web Developer Certification",
+        "graduated":"March 2020",
+        "description":"Learned the MERN stack and countless invaluable tools for working in the development field. Graduated with an A+ average and high marks on all of my collaborative projects, which you can find below."
+      },
+      {
+        "school":"Inver Hills Community College",
+        "degree":"Associate of Arts",
+        "graduated":"June 2019",
+        "description":"Studied liberal arts and did a lot of self-discovery. Learned how to work well with others, take responsibility, and show tenacity regardless of the circumstances."
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelance CSS",
+        "title":"CSS Developer ",
+        "years":"December 2014 - Present",
+        "description":"Began by designing paid custom CSS layouts for multiple subreddits and eventually graduated to implementing custom designs into squarespace websites, wix websites, and more."
+      },
+      {
+        "company":"Intermediate School District 917",
+        "title":"Paraprofessional/Data Manager Extraordinaire",
+        "years":"January 2017 - Present",
+        "description":"Created and maintained spreadsheets with extensive formulas and visuals to automate and simplify student data collection and interpretation. Also assisted in recording multiple different data types for numerous students in fifteen-minute increments on daily basis."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS + Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript + JQuery",
+        "level":"75%"
+      },
+      {
+        "name":"Libraries + APIs",
+        "level":"70%"
+      },
+      {
+        "name":"React",
+        "level":"75%"
+      },
+      {
+        "name":"MySQL",
+        "level":"75%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"Express",
+        "level":"65%"
+      },
+      {
+        "name":"Node",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"GIMP",
+        "level":"60%"
+      },
+      {
+        "name":"Typing Speed (Thank you Mavis Beacon)",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Password Generator",
+        "category":"A dynamic password generator that validates and responds to user inputs",
+        "image":"pwdgen.png",
+        "url":"https://www.brennancodes.github.io/Homework03"
+      },
+      {
+        "title":"Spitball",
+        "category":"A full stack website for collaboratively building ideas, featuring facebook OAuth",
+        "image":"spitball.png",
+        "url":"https://www.teamibs.herokuapp.com"
+      },
+      {
+        "title":"Chameleon Sheets",
+        "category":"A high-security React app for special education professionals to track student data",
+        "image":"chameleon.png",
+        "url":"https://chameleon-sheets.herokuapp.com"
+      },
+      {
+        "title":"The Peace Project",
+        "category":"A frontend app I built to track progress in recovery",
+        "image":"tpp.png",
+        "url":"https://brennancodes.github.io/Homework07/index.html"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I was lucky enough to work with Brennan for the third and final project required of us at the University of Minnesota bootcamp, and wow, does Brennan deliver. His frontend web development skills are incredible, and his vision is unmatched. He provided the concept for our project, and he was our visionary and leader from start to finish. He had all the ideas in his head and he was extremely effective at communicating them and making sure the rest of the team understood. He put in some long hours completing the project, and if he ran into a bug or problem, he always found a way to fix it, and was never afraid to ask for help or guidance. Brennan would make an incredible asset to any team. He's a leader, an effective communicator, easy going, and most importantly of all, fun to work with. ",
+        "user":"Kyle Betlach, classmate and project partner"
+      },
+      {
+        "text":"Every time I walked into class I smiled If I saw Brennan there. I had the honor to teach him coding and help shape his tool set to what it is today. Rarely do you get to teach someone you're positive is going to succeed the way Brennan will. From his first homework assignment I knew Brennan had an eye for design and the logic skills to backup whatever he wanted to achieve. And if that weren't enough he has a charismatic charm to him that few can compare, able to make friends with a room of strangers and then make them laugh. Brennan won't just succeed at any company smart enough to take him, he'll make them shine as bright as him.",
+        "user":"Blake Dragos, TA"
+      }
+    ]
+  }
+}
