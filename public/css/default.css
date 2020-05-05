@@ -177,6 +177,7 @@ p.lead {
    font: 19px/36px 'opensans-light', sans-serif;
    margin-bottom: 18px;
 }
+.download-p { margin: 0px 0px 0px 0px !important; }
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
 the body tag due to rendering problems in some browsers */
